@@ -1,0 +1,27 @@
+{
+  "name": "@woongs/use-scroll",
+  "version": "1.0.0",
+  "description": "React Hook to scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtwjs/learning-react.js.git"
+  },
+  "keywords": [
+    "react",
+    "scroll",
+    "hooks"
+  ],
+  "author": "woong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtwjs/learning-react.js/issues"
+  },
+  "homepage": "https://github.com/jtwjs/learning-react.js#readme",
+  "peerDependencies": {
+    "react-dom": "^17.0.1"
+  }
+}
